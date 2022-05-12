@@ -3,3 +3,5 @@
 - Łukasz
 - Kuba
 - Hubert
+
+First gui project in c++
